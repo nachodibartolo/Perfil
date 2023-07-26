@@ -1,6 +1,6 @@
-- 👋 Buenos dias soy Ignacio Di Bartolo (@ignaciodibartolo)
-- 👀 Soy apasionado en python y sus distintas librerias. Tambien me interesa el back end de web developement.
-- 🌱 En este momento estoy mejorando mis habilidades en C.
+- 👋 Buenos dias soy Ignacio Di Bartolo (@nachodibartolo)
+- 👀 HTML, CSS, PHP, JAVASCRIPT, MYSQL, PYTHON, C.
+- 🌱 Actuelmente estudiando developement front-end.
 
 <!---
 ignaciodibartolo/ignaciodibartolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
